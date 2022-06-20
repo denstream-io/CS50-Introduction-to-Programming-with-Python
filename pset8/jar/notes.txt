@@ -1,0 +1,6 @@
+
+1) Getter: this is a function in some class that gets some attribute value; in other to access
+    some class value you go through some function
+2) Setter: this is a function in some class that sets some attribute value; in other to sets some
+    class value you go through some value
+3) the getter and setter methods prevents class attribute circumvention
